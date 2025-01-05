@@ -108,13 +108,6 @@ Proses berikut digunakan untuk melakukan tuning hyperparameter dan evaluasi mode
 #### Hasil Evaluasi Random Forest
 - **Akurasi**: Random Forest memberikan hasil akurasi terbaik dengan kombinasi hyperparameter yang dioptimalkan.
 
-### Hasil Pemodelan
-Model terbaik adalah Random Forest, dengan hasil sebagai berikut:
-- **Akurasi**: 85%
-- **Presisi**: 83%
-- **Recall**: 82%
-- **F1-score**: 83%
-
 #### Classification Report
 ```plaintext
               precision    recall  f1-score   support
