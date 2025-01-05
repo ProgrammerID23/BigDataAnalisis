@@ -142,7 +142,7 @@ Proyek ini berhasil membangun sistem klasifikasi lagu berdasarkan mood dengan ti
    ```
 2. Instal dependensi:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requiremens.txt
    ```
 3. Jalankan notebook:
    ```bash
